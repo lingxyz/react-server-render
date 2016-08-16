@@ -1,5 +1,6 @@
 import React from 'react'
+import Routes from './routes'
 
 React.render((
-  <div>asdasdasd</div>
+  <Routes />
 ), document.getElementById('root'))
